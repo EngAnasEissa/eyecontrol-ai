@@ -1,0 +1,77 @@
+{
+    "version": 1,
+    "created_at": "2026-09-21 22:56:19",
+    "screen_width": 1920,
+    "screen_height": 1080,
+    "samples_per_point": 30,
+    "feature_columns": [
+        "left_normalized_x",
+        "left_normalized_y",
+        "right_normalized_x",
+        "right_normalized_y",
+        "left_ear",
+        "right_ear"
+    ],
+    "points": {
+        "CENTER": {
+            "name": "CENTER",
+            "screen_x": 960,
+            "screen_y": 540,
+            "sample_count": 30,
+            "left_normalized_x": 0.5454380694579226,
+            "left_normalized_y": 0.4596604751852176,
+            "right_normalized_x": 0.45678449362509926,
+            "right_normalized_y": 0.44510755493225046,
+            "left_ear": 0.3514083043460561,
+            "right_ear": 0.3634940223501084
+        },
+        "LEFT": {
+            "name": "LEFT",
+            "screen_x": 192,
+            "screen_y": 540,
+            "sample_count": 30,
+            "left_normalized_x": 0.55913602261409,
+            "left_normalized_y": 0.45619887132645487,
+            "right_normalized_x": 0.46789560252694923,
+            "right_normalized_y": 0.447676622825199,
+            "left_ear": 0.32889347262406515,
+            "right_ear": 0.3357974104344399
+        },
+        "RIGHT": {
+            "name": "RIGHT",
+            "screen_x": 1728,
+            "screen_y": 540,
+            "sample_count": 30,
+            "left_normalized_x": 0.5533439649199166,
+            "left_normalized_y": 0.4692012035601305,
+            "right_normalized_x": 0.4843256970911686,
+            "right_normalized_y": 0.44934619825630645,
+            "left_ear": 0.3448155540455496,
+            "right_ear": 0.36794392179172847
+        },
+        "UP": {
+            "name": "UP",
+            "screen_x": 960,
+            "screen_y": 108,
+            "sample_count": 30,
+            "left_normalized_x": 0.518695399574432,
+            "left_normalized_y": 0.42252634933842725,
+            "right_normalized_x": 0.42463659294822925,
+            "right_normalized_y": 0.408804000074755,
+            "left_ear": 0.42890381714344944,
+            "right_ear": 0.4411224334332852
+        },
+        "DOWN": {
+            "name": "DOWN",
+            "screen_x": 960,
+            "screen_y": 972,
+            "sample_count": 30,
+            "left_normalized_x": 0.5630773950275806,
+            "left_normalized_y": 0.40785913731100276,
+            "right_normalized_x": 0.4872724484750157,
+            "right_normalized_y": 0.44716963004301197,
+            "left_ear": 0.23257263585313473,
+            "right_ear": 0.2275528377092886
+        }
+    }
+}
